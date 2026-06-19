@@ -1,0 +1,7 @@
+Enhancing Geoscientific Workflows with MATLAB
+ 
+This seminar provides an overview of what’s new in MATLAB, with specific focus on new functionality in mapping and the latest GenAI MATLAB Copilot features. 
+
+Attendees will see examples that emphasize geospatial data analysis and use cases that highlight how MATLAB can streamline workflows and enhance productivity. 
+ 
+MATLAB’s low-code, reproducible workflows enable researchers, instructors, and students who are new to programming while serving as a powerful, scalable development environment for veteran users. 
